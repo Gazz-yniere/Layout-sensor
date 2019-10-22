@@ -1,0 +1,68 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=sonde
+*Date=13:50:27
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;49.5031;-9.78208;-45;Bottom;IMG1
+2;;THT;42.8546;-24.3396;-135;Bottom;Supply
+3;;THT;48.4488;-49.5354;90;Bottom;LX1972
+4;;;46.3688;-66.8402;0;Bottom;TXT5
+5;;;58.6089;-30.4852;0;Bottom;Via11
+6;;THT;42.0988;-64.7754;90;Bottom;A5
+7;;cpol-radial-1000uf-25v;49.7188;-34.2954;-90;Bottom;1000uf
+8;;THT;20.5088;-15.2454;90;Bottom;D4
+9;;;34.3184;-34.5051;0;Bottom;Hole1
+10;;;57.7111;-50.9124;0;Bottom;TXT10
+11;;;27.9685;-52.3248;0;Bottom;TXT14
+12;;THT;43.5731;-44.9694;135;Bottom;ws2812b
+13;;THT;15.4288;-54.6154;-90;Bottom;SR501
+14;;THT;62.4188;-34.2954;0;Bottom;MQ-7
+15;;THT;24.3188;-15.2454;90;Bottom;D2/SDA
+16;;;30.51;-52.3169;0;Bottom;TXT14
+17;;;50.9008;-51.6179;0;Bottom;TXT10
+18;;THT;29.3988;-20.3254;90;Bottom;RX/TX
+19;;;30.4625;-2.75;0;Bottom;TXT10
+20;;;41.2809;-66.9754;0;Bottom;TXT4
+21;;;49.1628;-60.1949;0;Bottom;TXT8
+22;;;39.2938;-49.8858;0;Bottom;TXT13
+23;;;30.169;-16.1662;0;Bottom;TXT2
+24;;THT;34.4788;-5.08536;90;Bottom;BME 280
+25;;;46.6298;-22.0409;0;Bottom;TXT11
+26;;;28.1289;-7.62521;0;Bottom;Via12
+27;;;56.0687;-43.1855;0;Bottom;Hole3
+28;;;34.4789;-50.8052;0;Bottom;Via1
+29;;;24.3189;-58.4254;0;Bottom;Via2
+30;;;55.0135;-13.5125;-45;Bottom;TXT16
+31;;;62.0607;-28.2285;0;Bottom;TXT10
+32;;;57.7093;-19.4433;-45;Bottom;TXT15
+33;;;45.9089;-19.0552;0;Bottom;Via10
+34;;;49.7318;-41.842;0;Bottom;TXT10
+35;;THT;53.6829;-55.7313;-45;Bottom;MQ-135
+36;;;17.9687;-60.9654;0;Bottom;Hole2
+37;;THT;12.8888;-48.2654;90;Bottom;3,3v
+38;;;33.2543;-52.3013;0;Bottom;TXT14
+39;;THT;24.3188;-10.1654;90;Bottom;5v
+40;;;12.837;-56.613;0;Bottom;TXT10
+41;470;THT;35.5947;-46.8413;135;Bottom;470
+42;;THT;25.5888;-48.2654;90;Bottom;D0
+43;;;48.3458;-51.566;0;Bottom;TXT9
+44;;;15.4356;-56.6623;0;Bottom;TXT14
+45;;;62.0827;-40.1806;0;Bottom;TXT6
+46;;;40.8287;-10.1655;0;Bottom;Hole4
+47;;;49.2926;-24.6636;0;Bottom;TXT12
+48;;DIP (Dual Inline) [THT];37.016;-58.3876;90;Bottom;Mux 4051
+49;;THT;24.3188;-12.7054;-90;Bottom;Gnd
+50;;;43.8754;-66.9927;0;Bottom;TXT5
+51;;;43.7456;-19.6608;0;Bottom;TXT10
+52;;;20.836;-34.2957;90;Bottom;WeMos D1 Mini
+53;;;38.7443;-66.9506;0;Bottom;TXT3
